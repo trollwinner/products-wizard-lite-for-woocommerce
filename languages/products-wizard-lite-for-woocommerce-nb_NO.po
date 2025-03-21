@@ -1,0 +1,1195 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WooCommerce Products Wizard\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2020-07-16 15:32+0000\n"
+"PO-Revision-Date: 2024-12-13 14:02+0000\n"
+"Last-Translator: \n"
+"Language-Team: Norwegian (Bokmål)\n"
+"Language: nb_NO\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.6.14; wp-6.7.1"
+
+#: includes/classes/Wizard.php:693 includes/classes/Wizard.php:703
+msgid "\"%limit%\" - products limit"
+msgstr "\"%limit%\" - produktgrense"
+
+#: includes/classes/Wizard.php:695 includes/classes/Wizard.php:705
+msgid "\"%value%\" - current products count"
+msgstr "\"%value%\" - nåværende produkter teller"
+
+#: includes/classes/WizardStep.php:237
+msgid "\"Add to cart\" button behavior"
+msgstr "\"Legg i handlekurv\"-knappens virkemåte"
+
+#: includes/classes/WizardStep.php:256 includes/classes/Wizard.php:506
+msgid "\"Add to cart\" button class"
+msgstr "\"Legg i handlekurv\"-knappklasse"
+
+#: includes/classes/WizardStep.php:249 includes/classes/Wizard.php:497
+msgid "\"Add to cart\" button text"
+msgstr "\"Legg i handlekurv\"-knapp"
+
+#: includes/classes/Wizard.php:522
+msgid "\"Back\" button class"
+msgstr "\"Tilbake\"-knappklasse"
+
+#: includes/classes/Wizard.php:515
+msgid "\"Back\" button text"
+msgstr "Tekst for knapp"
+
+#: includes/classes/Wizard.php:663
+msgid "\"Edit\" button class"
+msgstr "\"Rediger\"-knappklasse"
+
+#: includes/classes/Wizard.php:656
+msgid "\"Edit\" button text"
+msgstr "Tekst på knappen \"Rediger\"."
+
+#: includes/classes/Wizard.php:538
+msgid "\"Next\" button class"
+msgstr "\"Neste\"-knappklasse"
+
+#: includes/classes/Wizard.php:531
+msgid "\"Next\" button text"
+msgstr "tekst Neste-knapp"
+
+#: includes/classes/WizardStep.php:302 includes/classes/Wizard.php:639
+msgid "\"Remove\" button class"
+msgstr "\"Fjern\"-knappklasse"
+
+#: includes/classes/WizardStep.php:295 includes/classes/Wizard.php:632
+msgid "\"Remove\" button text"
+msgstr "Tekst på Fjern-knapp"
+
+#: includes/classes/Wizard.php:554
+msgid "\"Reset\" button class"
+msgstr "\"Tilbakestill\"-knappklasse"
+
+#: includes/classes/Wizard.php:547
+msgid "\"Reset\" button text"
+msgstr "Knapp for nullstilling"
+
+#: includes/classes/Wizard.php:570
+msgid "\"Skip\" button class"
+msgstr "\"Hopp over\"-knappklasse"
+
+#: includes/classes/Wizard.php:563
+msgid "\"Skip\" button text"
+msgstr "Tekst for knapp"
+
+#: includes/classes/Wizard.php:488
+msgid "\"Start\" button class"
+msgstr "\"Start\"-knappklasse"
+
+#: includes/classes/Wizard.php:481
+msgid "\"Start\" button text"
+msgstr "Tekst på startknappen"
+
+#: includes/classes/Wizard.php:579
+msgid "\"To results\" button behavior"
+msgstr "«Til resultater»-knappens virkemåte"
+
+#: includes/classes/Wizard.php:597
+msgid "\"To results\" button class"
+msgstr "\"Til resultater\"-knappklasse"
+
+#: includes/classes/Wizard.php:590
+msgid "\"To results\" button text"
+msgstr "Vis resultater-tekst"
+
+#: includes/classes/Wizard.php:615
+msgid "\"Toggle widget\" button class"
+msgstr "\"Veksle widget\"-knappklasse"
+
+#: includes/classes/Wizard.php:606
+msgid "\"Toggle widget\" button text"
+msgstr "Tekst på knappen \"Veksle widget\"."
+
+#: includes/classes/WizardStep.php:279
+msgid "\"Update\" button class"
+msgstr "\"Oppdater\"-knappklasse"
+
+#: includes/classes/WizardStep.php:272
+msgid "\"Update\" button text"
+msgstr "Tekst på knappen \"Oppdater\"."
+
+#. phpcs:disable
+#: products-wizard-lite-for-woocommerce.php:74
+msgid ""
+"A few Products Wizard plugins are enabled at once. Keep enabled only one of "
+"them."
+msgstr ""
+"Noen få produktveiviser-plugins er aktivert samtidig. Hold bare én av dem "
+"aktivert."
+
+#: includes/setting-field-views/data-table.php:138
+msgid "Add"
+msgstr "Legge til"
+
+#: includes/classes/Wizard.php:1077
+msgid "Add step"
+msgstr "Legg til trinn"
+
+#: includes/classes/WizardStep.php:252 includes/classes/Wizard.php:447
+#: includes/classes/Wizard.php:476 includes/classes/Wizard.php:500
+msgid "Add to cart"
+msgstr "Bestill"
+
+#: includes/classes/WizardStep.php:244
+msgid "Add to main cart"
+msgstr "Legg til hovedkurven"
+
+#: includes/setting-field-views/multi-select.php:35
+msgid "All"
+msgstr "Alle"
+
+#: includes/classes/Wizard.php:273 includes/classes/Wizard.php:300
+msgid "Always"
+msgstr "Alltid"
+
+#: includes/classes/Wizard.php:274
+msgid "Always until the results step"
+msgstr "Alltid til resultattrinn"
+
+#: includes/classes/Settings.php:69 includes/classes/Settings.php:79
+msgid "AND"
+msgstr "OG"
+
+#: includes/classes/Wizard.php:628 includes/classes/Wizard.php:652
+msgid "Appears in the cart widget and results table"
+msgstr "Vises i handlekurv-widgeten og resultattabellen"
+
+#: includes/classes/WizardStep.php:646
+msgid "Apply to all steps"
+msgstr "Bruk på alle trinn"
+
+#: includes/classes/WizardStep.php:151
+msgid "Ascending"
+msgstr "Stigende"
+
+#: includes/classes/WizardStep.php:163
+msgid "Author"
+msgstr "Forfatter"
+
+#: includes/classes/Wizard.php:118
+msgid "Auto"
+msgstr "Auto"
+
+#: includes/classes/Settings.php:21
+msgid "Availability rules"
+msgstr "Tilgjengelighetsregler"
+
+#: views/result.php:240
+msgid "Available on backorder"
+msgstr "Tilgjengelig på restordre"
+
+#: includes/classes/Wizard.php:443 includes/classes/Wizard.php:472
+#: includes/classes/Wizard.php:518
+msgid "Back"
+msgstr "Tilbake"
+
+#: includes/classes/WizardStep.php:81 includes/classes/WizardStep.php:89
+#: includes/classes/WizardStep.php:96 includes/classes/WizardStep.php:104
+#: includes/classes/WizardStep.php:112 includes/classes/WizardStep.php:120
+#: includes/classes/Wizard.php:1053
+msgid "Basic"
+msgstr "Grunnleggende"
+
+#: includes/classes/Wizard.php:110 includes/classes/Wizard.php:123
+#: includes/classes/Wizard.php:131 includes/classes/Wizard.php:138
+#: includes/classes/Wizard.php:147
+msgid "Behavior"
+msgstr "Oppførsel"
+
+#: includes/classes/Template.php:34
+msgid "Buttons"
+msgstr "Knapper"
+
+#: includes/classes/WizardStep.php:187
+msgid "Can select multiple products"
+msgstr "Kan velge flere produkter"
+
+#: views/widget/index.php:44 includes/classes/WizardStep.php:192
+#: includes/classes/WizardStep.php:200 includes/classes/WizardStep.php:212
+#: includes/classes/WizardStep.php:225 includes/classes/Wizard.php:157
+#: includes/classes/Wizard.php:165 includes/classes/Wizard.php:176
+msgid "Cart"
+msgstr "Handlevogn"
+
+#: includes/classes/Settings.php:46
+msgid "Categories"
+msgstr "Kategorier"
+
+#: includes/classes/WizardStep.php:125
+msgid "Categories for using"
+msgstr "Kategorier for bruk"
+
+#: includes/classes/Settings.php:35
+msgid "Category"
+msgstr "Kategori"
+
+#: includes/setting-field-views/thumbnail.php:26
+msgid "Change"
+msgstr "Endre"
+
+#: views/form/item/prototype/choose.php:47
+msgid "Choose"
+msgstr "Velge"
+
+#: views/form/item/prototype/variations/index.php:51
+msgid "Clear"
+msgstr "Klar"
+
+#: includes/classes/Wizard.php:1118 includes/classes/Wizard.php:1147
+msgid "Clone"
+msgstr "Klone"
+
+#: views/widget/index.php:57 includes/classes/Wizard.php:969
+#: includes/setting-field-views/data-table.php:45
+#: includes/global/shared-editor-modal.php:12
+msgid "Close"
+msgstr "Lukke"
+
+#: includes/classes/Wizard.php:174
+msgid "Combined product"
+msgstr "Kombinert produkt"
+
+#: includes/classes/WizardStep.php:168
+msgid "Comment count"
+msgstr "Antall kommentarer"
+
+#: includes/classes/Settings.php:53
+msgid "Condition"
+msgstr "Betingelse"
+
+#: includes/classes/WizardStep.php:234 includes/classes/WizardStep.php:246
+#: includes/classes/WizardStep.php:253 includes/classes/WizardStep.php:262
+#: includes/classes/WizardStep.php:269 includes/classes/WizardStep.php:276
+#: includes/classes/WizardStep.php:285 includes/classes/WizardStep.php:292
+#: includes/classes/WizardStep.php:299 includes/classes/WizardStep.php:308
+#: includes/classes/Wizard.php:449 includes/classes/Wizard.php:478
+#: includes/classes/Wizard.php:485 includes/classes/Wizard.php:494
+#: includes/classes/Wizard.php:503 includes/classes/Wizard.php:512
+#: includes/classes/Wizard.php:519 includes/classes/Wizard.php:528
+#: includes/classes/Wizard.php:535 includes/classes/Wizard.php:544
+#: includes/classes/Wizard.php:551 includes/classes/Wizard.php:560
+#: includes/classes/Wizard.php:567 includes/classes/Wizard.php:576
+#: includes/classes/Wizard.php:587 includes/classes/Wizard.php:594
+#: includes/classes/Wizard.php:603 includes/classes/Wizard.php:612
+#: includes/classes/Wizard.php:621 includes/classes/Wizard.php:629
+#: includes/classes/Wizard.php:636 includes/classes/Wizard.php:644
+#: includes/classes/Wizard.php:653 includes/classes/Wizard.php:660
+#: includes/classes/Wizard.php:668
+msgid "Controls"
+msgstr "Kontroller"
+
+#: includes/setting-field-views/data-table.php:118
+#: includes/setting-field-views/data-table.php:145
+msgid "Copy"
+msgstr "Kopiere"
+
+#: includes/classes/WizardStep.php:209 includes/classes/WizardStep.php:221
+msgid "Count of selected products NOT including their quantities"
+msgstr "Antall utvalgte produkter inkluderer IKKE antall"
+
+#: includes/classes/Settings.php:102
+msgid "Count of selected products of steps"
+msgstr "Antall utvalgte produkter av trinn"
+
+#: includes/classes/WizardStep.php:380
+msgid "CSS value in px, rem, em, %, etc..."
+msgstr "CSS-verdi i px, rem, em, % osv..."
+
+#: includes/classes/Wizard.php:262
+msgid "CSS value in px, rem, em, etc..."
+msgstr "CSS-verdi i px, rem, em osv..."
+
+#: includes/classes/WizardStep.php:165
+msgid "Date"
+msgstr "Dato"
+
+#: includes/classes/WizardStep.php:211 includes/classes/WizardStep.php:223
+msgid "Define fixed value or steps IDs separated by a comma"
+msgstr "Definer faste verdier eller trinn-ID-er atskilt med komma"
+
+#: includes/classes/WizardStep.php:138
+msgid "Define specific products to output"
+msgstr "Definer spesifikke produkter til produksjon"
+
+#: includes/classes/WizardStep.php:152
+msgid "Descending"
+msgstr "Synkende"
+
+#: includes/classes/WizardStep.php:434
+msgid "Description source"
+msgstr "Beskrivelseskilde"
+
+#: includes/classes/Wizard.php:336
+msgid "Description step subtitle"
+msgstr "Beskrivelse trinn undertittel"
+
+#: includes/classes/Wizard.php:343
+msgid "Description step thumbnail"
+msgstr "Beskrivelse trinn miniatyrbilde"
+
+#: includes/classes/Wizard.php:329
+#| msgid "Description tab title"
+msgid "Description step title"
+msgstr "Fanetittel"
+
+#: includes/classes/Admin.php:162
+msgid "Docs"
+msgstr "Dokumenter"
+
+#: includes/classes/Wizard.php:156
+msgid "Drop products from steps after the current"
+msgstr "Slipp produkter fra trinn etter gjeldende"
+
+#: includes/classes/Wizard.php:659 includes/setting-field-views/editor.php:26
+msgid "Edit"
+msgstr "Redigere"
+
+#: includes/classes/Wizard.php:674
+msgid "Empty cart"
+msgstr "Tom vogn"
+
+#: includes/classes/WizardStep.php:566 includes/classes/WizardStep.php:706
+#: includes/classes/WizardStep.php:779
+msgid "Empty step or post id"
+msgstr "Tomt trinn eller post-ID"
+
+#: views/app.php:7
+msgid "Empty wizard id"
+msgstr "Tom veiviser-ID"
+
+#: includes/classes/WizardStep.php:230
+msgid "Enable \"Add to cart\" button"
+msgstr "Aktiver \"Legg i handlekurv\"-knappen"
+
+#: includes/classes/Wizard.php:648
+msgid "Enable \"Edit\" button"
+msgstr "Aktiver \"Rediger\"-knappen"
+
+#: includes/classes/WizardStep.php:288 includes/classes/Wizard.php:624
+msgid "Enable \"Remove\" button"
+msgstr "Vis Slette-knapp"
+
+#: includes/classes/WizardStep.php:265
+#| msgid "Enable \"Back\" button"
+msgid "Enable \"Update\" button"
+msgstr "Aktiver \"Oppdater\"-knappen"
+
+#: includes/classes/Wizard.php:322
+#| msgid "Enable description tab"
+msgid "Enable description step"
+msgstr "Vis beskrivelsesfane"
+
+#: includes/classes/WizardStep.php:447
+msgid "Enable product title link"
+msgstr "Aktiver produkttittelkobling"
+
+#: includes/classes/Wizard.php:351
+#| msgid "Enable results tab"
+msgid "Enable results step"
+msgstr "Vis Resultat-knapp"
+
+#: includes/classes/WizardStep.php:420
+msgid "Enable thumbnail link"
+msgstr "Aktiver miniatyrbildelink"
+
+#: includes/setting-field-views/multi-select.php:71
+msgid "Enabled"
+msgstr "Aktivert"
+
+#: includes/classes/WizardStep.php:710 includes/classes/WizardStep.php:783
+#: includes/classes/Wizard.php:998 includes/classes/Traits/PostType.php:92
+msgid "Error while saving."
+msgstr "Feil under lagring."
+
+#: includes/setting-field-views/multi-select.php:39
+#: includes/setting-field-views/multi-select.php:40
+#: includes/setting-field-views/multi-select.php:75
+#: includes/setting-field-views/multi-select.php:76
+msgid "Filter"
+msgstr "Filter"
+
+#: includes/classes/Wizard.php:126
+#| msgid "Final redirect url"
+msgid "Final redirect URL"
+msgstr "Omdirigerings-URL"
+
+#: includes/classes/Settings.php:101
+msgid "Fixed value"
+msgstr "Fast verdi"
+
+#: includes/classes/Wizard.php:452
+msgid "Footer controls"
+msgstr "Bunntekstkontroller"
+
+#: includes/classes/Wizard.php:186
+msgid "For modes with navigation"
+msgstr "For moduser med navigasjon"
+
+#: includes/classes/Wizard.php:439 includes/classes/Wizard.php:440
+#: includes/classes/Wizard.php:468 includes/classes/Wizard.php:469
+msgid "Free space"
+msgstr "Ledig plass"
+
+#: includes/classes/Wizard.php:107
+msgid "Free walk"
+msgstr "Gratis gåtur"
+
+#: includes/classes/Wizard.php:120
+msgid "Get step"
+msgstr "Få steg"
+
+#: includes/classes/WizardStep.php:243
+msgid "Go next"
+msgstr "Gå neste"
+
+#. phpcs:ignore
+#: includes/classes/Admin.php:138
+msgid "Go PRO to unlock all wizard possibilities!"
+msgstr "Gå PRO for å låse opp alle veivisermuligheter!"
+
+#: includes/classes/Admin.php:184
+msgid "Go PRO!"
+msgstr "Gå PRO!"
+
+#: includes/classes/WizardStep.php:323
+msgid "Grid column width"
+msgstr "Rutenettsøylebredde"
+
+#: includes/classes/Wizard.php:160
+msgid "Group products into kits"
+msgstr "Grupper produktene i sett"
+
+#: includes/classes/Wizard.php:164
+msgid "Group products into kits after adding to the main cart"
+msgstr "Grupper produkter i sett etter å ha lagt dem i hovedkurven"
+
+#: includes/classes/Wizard.php:423
+msgid "Header controls"
+msgstr "Overskriftskontroller"
+
+#: includes/classes/WizardStep.php:199
+msgid "Hide products quantity input"
+msgstr "Skjul produktmengdeinndata"
+
+#: includes/classes/WizardStep.php:162
+msgid "ID"
+msgstr "ID"
+
+#: includes/setting-field-views/thumbnail.php:24
+msgid "Image"
+msgstr "Bilde"
+
+#: includes/classes/Settings.php:58
+msgid "In cart"
+msgstr "I handlekurven"
+
+#: includes/classes/WizardStep.php:134 includes/classes/WizardStep.php:170
+msgid "Included products"
+msgstr "Inkluderte produkter"
+
+#: includes/classes/Wizard.php:168
+msgid "Kits type"
+msgstr "Type sett"
+
+#: includes/classes/WizardStep.php:361 includes/classes/Wizard.php:244
+msgid "L"
+msgstr "L"
+
+#: includes/classes/Wizard.php:292
+msgid "L and smaller"
+msgstr "L og mindre"
+
+#: includes/classes/Wizard.php:298
+msgid "Larger L"
+msgstr "Større L"
+
+#: includes/classes/Wizard.php:297
+msgid "Larger M"
+msgstr "Større M"
+
+#: includes/classes/Wizard.php:296
+msgid "Larger S"
+msgstr "Større S"
+
+#: includes/classes/Wizard.php:299
+msgid "Larger XL"
+msgstr "Større XL"
+
+#: includes/classes/Wizard.php:295
+msgid "Larger XS"
+msgstr "Større XS"
+
+#: includes/classes/Wizard.php:187 includes/classes/Wizard.php:198
+#: includes/classes/Wizard.php:211 includes/classes/Wizard.php:265
+#: includes/classes/Wizard.php:279 includes/classes/Wizard.php:303
+#: includes/classes/Wizard.php:310 includes/classes/Wizard.php:317
+msgid "Layout"
+msgstr "Oppsett"
+
+#: includes/classes/Wizard.php:207
+msgid "Left"
+msgstr "Igjen"
+
+#: includes/classes/Template.php:35
+msgid "Line"
+msgstr "Linje"
+
+#: includes/classes/Template.php:36
+msgid "Line horizontal"
+msgstr "Linje horisontal"
+
+#: includes/classes/WizardStep.php:355 includes/classes/Wizard.php:238
+msgid "M"
+msgstr "M"
+
+#: includes/classes/Wizard.php:291
+msgid "M and smaller"
+msgstr "M og mindre"
+
+#: includes/classes/Wizard.php:702
+msgid "Maximum items selected: %limit%"
+msgstr "Maksimalt antall elementer valgt: %limit%"
+
+#: includes/classes/WizardStep.php:215 includes/classes/Wizard.php:699
+msgid "Maximum products selected"
+msgstr "Maksimalt antall produkter valgt"
+
+#: includes/classes/WizardStep.php:169
+msgid "Menu order"
+msgstr "Meny rekkefølge"
+
+#: includes/classes/WizardStep.php:203 includes/classes/Wizard.php:689
+msgid "Minimum products selected"
+msgstr "Minimumsprodukter valgt"
+
+#: includes/classes/Wizard.php:692
+msgid "Minimum selected items are required: %limit%"
+msgstr "Minimum valgte elementer kreves: %limit%"
+
+#: includes/classes/WizardStep.php:166
+msgid "Modified"
+msgstr "Modifisert"
+
+#: includes/classes/WizardStep.php:588
+msgid "More"
+msgstr "Flere"
+
+#: includes/classes/WizardStep.php:164
+msgid "Name"
+msgstr "Navn"
+
+#: includes/classes/Wizard.php:113
+msgid "Navigation action"
+msgstr "Navigasjonshandling"
+
+#: includes/classes/Wizard.php:190
+msgid "Navigation button class"
+msgstr "Navigasjonsknappklasse"
+
+#: includes/classes/WizardStep.php:88
+msgid "Navigation item title. Optional"
+msgstr "Tittel på navigasjonselement. Valgfri"
+
+#: includes/classes/WizardStep.php:92
+msgid "Navigation subtitle"
+msgstr "Navigasjonsundertekst"
+
+#: includes/classes/Wizard.php:181
+#| msgid "Variation template"
+msgid "Navigation template"
+msgstr "Navigasjonsmal"
+
+#: includes/classes/WizardStep.php:84
+msgid "Navigation title"
+msgstr "Navigasjonstittel"
+
+#: includes/classes/Wizard.php:277 includes/classes/Wizard.php:287
+msgid "Never"
+msgstr "Aldri"
+
+#: includes/classes/Wizard.php:445 includes/classes/Wizard.php:474
+#: includes/classes/Wizard.php:534
+#: includes/setting-field-views/data-table.php:84
+msgid "Next"
+msgstr "Neste"
+
+#: includes/classes/Form.php:1765
+msgid "Next »"
+msgstr "Neste>>"
+
+#: includes/classes/Wizard.php:684
+msgid "No products were found matching your selection."
+msgstr "Ingen produkter ble funnet som samsvarer med utvalget ditt."
+
+#: includes/classes/WizardStep.php:570
+msgid "Nonce error"
+msgstr "Ingen feil"
+
+#: includes/classes/WizardStep.php:441 includes/classes/Wizard.php:121
+#: includes/classes/Wizard.php:185
+msgid "None"
+msgstr "Ingen"
+
+#: includes/classes/Settings.php:59
+msgid "Not in cart"
+msgstr "Ikke i handlekurven"
+
+#: includes/classes/WizardStep.php:99
+msgid "Notes"
+msgstr "Notater"
+
+#: includes/classes/Wizard.php:681
+msgid "Nothing found"
+msgstr "Ingenting funnet"
+
+#: includes/classes/Wizard.php:130
+msgid "Open a page after the \"Add to main cart\" action"
+msgstr "Åpne en side etter \"Legg til hovedkurv\"-handlingen"
+
+#: includes/classes/Settings.php:68 includes/classes/Settings.php:78
+msgid "OR"
+msgstr "ELLER"
+
+#: includes/classes/WizardStep.php:146
+msgid "Order"
+msgstr "Bestille"
+
+#: includes/classes/WizardStep.php:157
+msgid "Order by"
+msgstr "Bestill innen"
+
+#: views/form/pagination.php:14
+msgid "Page navigation"
+msgstr "Sidenavigering"
+
+#: includes/classes/Template.php:37
+msgid "Pills"
+msgstr "Piller"
+
+#: views/form/item/prototype/thumbnail.php:42
+msgid "Placeholder"
+msgstr "Plassholder"
+
+#: includes/setting-field-views/data-table.php:77
+msgid "Prev"
+msgstr "Forrige"
+
+#: includes/classes/WizardStep.php:171 includes/classes/Cart.php:1256
+#: includes/classes/Wizard.php:417
+msgid "Price"
+msgstr "Pris"
+
+#: includes/classes/Wizard.php:403
+msgid "Product"
+msgstr "Produkt"
+
+#: includes/classes/WizardStep.php:439
+msgid "Product content"
+msgstr "Produktinnhold"
+
+#: includes/classes/WizardStep.php:440
+msgid "Product short description"
+msgstr "Kort produktbeskrivelse"
+
+#: includes/classes/WizardStep.php:384
+msgid "Product template"
+msgstr "Produktmal"
+
+#: includes/classes/WizardStep.php:396
+msgid "Product variation template"
+msgstr "Produktvariasjonsmal"
+
+#: includes/classes/Settings.php:34
+msgid "Product/variation"
+msgstr "Produkt/variasjon"
+
+#: includes/classes/Settings.php:39
+msgid "Products"
+msgstr "Produkter"
+
+#: includes/classes/WizardStep.php:176
+msgid "Products per page"
+msgstr "Antall produkter per side"
+
+#: includes/classes/Wizard.php:61 includes/classes/Wizard.php:62
+msgid "Products Wizard"
+msgstr "Produktveiviser"
+
+#: includes/classes/Wizard.php:57 includes/classes/Wizard.php:59
+#: includes/classes/Wizard.php:60
+msgid "Products Wizard for WooCommerce"
+msgstr "Produktveiviser for WooCommerce"
+
+#: products-wizard-lite-for-woocommerce.php:71
+msgid "Products Wizard for WooCommerce is enabled a few times"
+msgstr "Products Wizard for WooCommerce er aktivert noen ganger"
+
+#. Name of the plugin
+msgid "Products Wizard Lite for WooCommerce"
+msgstr "Products Wizard Lite for WooCommerce"
+
+#: includes/classes/Template.php:38
+msgid "Progress"
+msgstr "Framgang"
+
+#: includes/classes/Wizard.php:410
+msgid "Quantity"
+msgstr "Mengde"
+
+#: includes/classes/Settings.php:83 includes/classes/WizardStep.php:131
+#: includes/classes/WizardStep.php:139 includes/classes/WizardStep.php:154
+#: includes/classes/WizardStep.php:173 includes/classes/WizardStep.php:182
+msgid "Query"
+msgstr "Spørsmål"
+
+#: includes/classes/WizardStep.php:167
+msgid "Rand"
+msgstr "Rand"
+
+#: includes/classes/Settings.php:73
+msgid "Relation with the next rule"
+msgstr "Forholdet til neste regel"
+
+#: includes/classes/Settings.php:63
+msgid "Relation within the items"
+msgstr "Relasjon innenfor varene"
+
+#: includes/classes/WizardStep.php:298 includes/classes/Wizard.php:635
+#: includes/setting-field-views/data-table.php:146
+#: includes/setting-field-views/thumbnail.php:30
+msgid "Remove"
+msgstr "Fjern"
+
+#: includes/classes/Wizard.php:389
+msgid "Remove item"
+msgstr "Fjern elementet"
+
+#: includes/classes/WizardStep.php:191
+msgid "Replace radio-inputs with checkboxes to select multiple products"
+msgstr ""
+"Erstatt radioinnganger med avmerkingsbokser for å velge flere produkter"
+
+#: includes/classes/Wizard.php:442 includes/classes/Wizard.php:471
+#: includes/classes/Wizard.php:550
+msgid "Reset"
+msgstr "Nullstill"
+
+#: includes/classes/Wizard.php:414
+msgid "Results price string"
+msgstr "Resultatprisstreng"
+
+#: includes/classes/Wizard.php:400
+msgid "Results product string"
+msgstr "Resultatproduktstreng"
+
+#: includes/classes/Wizard.php:407
+msgid "Results quantity string"
+msgstr "Resultatkvantitetsstreng"
+
+#: includes/classes/Wizard.php:386
+msgid "Results remove string"
+msgstr "Resultater fjerner streng"
+
+#: includes/classes/Wizard.php:379
+msgid "Results step description"
+msgstr "Resultattrinnbeskrivelse"
+
+#: includes/classes/Wizard.php:365
+msgid "Results step subtitle"
+msgstr "Resultat trinn undertittel"
+
+#: includes/classes/Wizard.php:372
+msgid "Results step thumbnail"
+msgstr "Resultattrinn-miniatyrbilde"
+
+#: includes/classes/Wizard.php:358
+#| msgid "Results tab title"
+msgid "Results step title"
+msgstr "Tittel Resultat-tab"
+
+#: includes/classes/Wizard.php:393
+msgid "Results thumbnail string"
+msgstr "Resultatminiatyrbildestreng"
+
+#. 1: WP_REST_Response, 2: WP_Error
+#: includes/classes/Utils.php:286
+#, php-format
+msgid ""
+"Return a %1$s or %2$s object from your callback when using the REST API."
+msgstr ""
+"Returner et %1$s eller %2$s objekt fra tilbakeringingen når du bruker REST "
+"API."
+
+#: includes/classes/Wizard.php:206
+msgid "Right"
+msgstr "Høyre"
+
+#: includes/classes/WizardStep.php:349 includes/classes/Wizard.php:232
+msgid "S"
+msgstr "S"
+
+#: includes/classes/Wizard.php:290
+msgid "S and smaller"
+msgstr "S og mindre"
+
+#: includes/classes/WizardStep.php:663
+#: includes/setting-field-views/data-table.php:80
+msgid "Save"
+msgstr "Lagre"
+
+#: includes/classes/WizardStep.php:668
+msgid "Save & Close"
+msgstr "Lagre og lukk"
+
+#: includes/classes/Wizard.php:134
+msgid "Scrolling top on the form update"
+msgstr "Rull øverst på skjemaoppdateringen"
+
+#: includes/setting-field-views/wc-product-search.php:17
+msgid "Search for a product&hellip;"
+msgstr "Søk etter et produkt..."
+
+#: includes/setting-field-views/wc-terms-search.php:17
+msgid "Search for a term&hellip;"
+msgstr "Søk etter et begrep..."
+
+#: includes/classes/WizardStep.php:72 includes/classes/Wizard.php:95
+msgid "See documentation"
+msgstr "Se dokumentasjon"
+
+#: includes/classes/WizardStep.php:130
+msgid "Select categories to request products"
+msgstr "Velg kategorier for å be om produkter"
+
+#: includes/classes/Wizard.php:302
+msgid "Select required screen size"
+msgstr "Velg ønsket skjermstørrelse"
+
+#: includes/classes/Wizard.php:173
+msgid "Separated products"
+msgstr "Separerte produkter"
+
+#: includes/classes/WizardStep.php:416
+msgid ""
+"Set width and height separated by a comma or use string value. For example "
+"thumbnail, medium, large"
+msgstr ""
+"Angi bredde og høyde atskilt med komma eller bruk strengverdi. For eksempel "
+"thumbnail, medium, large"
+
+#: includes/classes/Admin.php:186 includes/classes/Wizard.php:1125
+#: includes/classes/Wizard.php:1154
+#: includes/setting-field-views/data-table.php:39
+#: includes/classes/Traits/PostType.php:52
+msgid "Settings"
+msgstr "Innstillinger"
+
+#: includes/classes/Wizard.php:1060 includes/classes/Wizard.php:1205
+msgid "ShortCode"
+msgstr "Kortkode"
+
+#: includes/classes/Wizard.php:268
+msgid "Show cart widget"
+msgstr "Vis handlekurv-widget"
+
+#: includes/classes/Wizard.php:313
+msgid "Show footer"
+msgstr "Vis bunntekst"
+
+#: includes/classes/Wizard.php:306
+msgid "Show header"
+msgstr "Vis overskrift"
+
+#: includes/classes/WizardStep.php:427
+msgid "Show product description"
+msgstr "Vis produktbeskrivelse"
+
+#: includes/classes/WizardStep.php:405
+msgid "Show product thumbnails"
+msgstr "Vis produktminiatyrbilder"
+
+#: includes/classes/Settings.php:26
+msgid "Show/hide the step according to the specific rules"
+msgstr "Vis/skjul trinnet i henhold til de spesifikke reglene"
+
+#: includes/classes/Wizard.php:201
+msgid "Sidebar position"
+msgstr "Sidebar posisjon"
+
+#: includes/classes/Wizard.php:214
+msgid "Sidebar width"
+msgstr "Sidefelts bredde"
+
+#: includes/classes/Wizard.php:108
+msgid "Single step"
+msgstr "Enkelt trinn"
+
+#: includes/classes/Wizard.php:444 includes/classes/Wizard.php:473
+#: includes/classes/Wizard.php:566
+msgid "Skip"
+msgstr "Hopp over"
+
+#: includes/classes/Wizard.php:584
+msgid "Skip all"
+msgstr "Hopp over alt"
+
+#: includes/classes/WizardStep.php:195
+msgid "Sold individually"
+msgstr "Solgt Individuelt"
+
+#: includes/classes/WizardStep.php:714 includes/classes/WizardStep.php:787
+msgid "Sorry, you are not allowed to edit this item."
+msgstr "Beklager, du har ikke lov til å redigere dette elementet."
+
+#: includes/classes/Settings.php:29
+msgid "Source"
+msgstr "Kilde"
+
+#: includes/classes/Wizard.php:441 includes/classes/Wizard.php:470
+#: includes/classes/Wizard.php:484
+msgid "Start"
+msgstr "Start"
+
+#: includes/classes/WizardStep.php:242
+msgid "Stay on the same step"
+msgstr "Hold deg på samme trinn"
+
+#: includes/classes/WizardStep.php:103
+msgid "Step notes only for developers"
+msgstr "Trinnnotater kun for utviklere"
+
+#: includes/classes/Wizard.php:326 includes/classes/Wizard.php:333
+#: includes/classes/Wizard.php:340 includes/classes/Wizard.php:348
+#: includes/classes/Wizard.php:355 includes/classes/Wizard.php:362
+#: includes/classes/Wizard.php:369 includes/classes/Wizard.php:376
+#: includes/classes/Wizard.php:383 includes/classes/Wizard.php:390
+#: includes/classes/Wizard.php:397 includes/classes/Wizard.php:404
+#: includes/classes/Wizard.php:411 includes/classes/Wizard.php:418
+msgid "Steps"
+msgstr "Trinn"
+
+#: includes/classes/Wizard.php:282
+msgid "Sticky widget"
+msgstr "Sticky widget"
+
+#: includes/classes/Wizard.php:152
+msgid "Strict cart workflow"
+msgstr "Strenge arbeidsflyt for handlevogn"
+
+#: includes/classes/Wizard.php:678 includes/classes/Wizard.php:686
+#: includes/classes/Wizard.php:696 includes/classes/Wizard.php:706
+#: includes/classes/Wizard.php:713 includes/classes/Wizard.php:721
+msgid "Strings"
+msgstr "Strenger"
+
+#: includes/classes/Wizard.php:119
+msgid "Submit"
+msgstr "Send inn"
+
+#: includes/classes/Wizard.php:585
+msgid "Submit step and skip all"
+msgstr "Send inn trinn og hopp over alt"
+
+#: includes/classes/Wizard.php:712
+msgid "Subtotal"
+msgstr "Delsum"
+
+#: includes/classes/Wizard.php:709
+msgid "Subtotal string"
+msgstr "Subtotal streng"
+
+#: includes/classes/Template.php:39
+msgid "Tabs"
+msgstr "Faner"
+
+#: includes/classes/WizardStep.php:313
+msgid "Template"
+msgstr "Mal"
+
+#: includes/classes/Wizard.php:141
+msgid "The gap on scrolling up"
+msgstr "Gapet ved å rulle opp"
+
+#: includes/classes/Wizard.php:64
+msgid "This is where you can add new products wizard items."
+msgstr "Her legger du til nye produkter via Wizard."
+
+#. Description of the plugin
+#| msgid "This plugin helps you sell your products by the step-by-step wizard."
+msgid "This plugin helps you sell your products by the step-by-step wizard"
+msgstr "Plugin'en hjelper deg med å selge produktene via step-by-step wizarden"
+
+#: includes/classes/WizardStep.php:107
+msgid "Thumbnail"
+msgstr "Miniatyrbilde"
+
+#: includes/classes/Wizard.php:396
+msgid "Thumbnail image"
+msgstr "Miniatyrbilde"
+
+#: includes/classes/WizardStep.php:412
+msgid "Thumbnail size"
+msgstr "Miniatyrbildestørrelse"
+
+#: includes/classes/WizardStep.php:77
+msgid "Title"
+msgstr "Tittel"
+
+#: includes/classes/Wizard.php:446 includes/classes/Wizard.php:475
+#: includes/classes/Wizard.php:593
+msgid "To results"
+msgstr "Vis resultater"
+
+#: includes/classes/Wizard.php:609
+msgid "Toggle cart"
+msgstr "Slå handlevogn"
+
+#: includes/classes/Wizard.php:208
+msgid "Top"
+msgstr "Topp"
+
+#: includes/classes/WizardStep.php:115
+#| msgid "Description"
+msgid "Top description"
+msgstr "Beskrivelse"
+
+#: includes/classes/Wizard.php:361 includes/classes/Wizard.php:719
+msgid "Total"
+msgstr "Total"
+
+#: includes/classes/Wizard.php:716
+msgid "Total string"
+msgstr "Total streng"
+
+#: includes/classes/Settings.php:96
+msgid "Type"
+msgstr "Type"
+
+#: includes/classes/WizardStep.php:275
+#: includes/global/shared-editor-modal.php:25
+msgid "Update"
+msgstr "Oppdater"
+
+#: includes/classes/WizardStep.php:318
+msgid ""
+"Use \"Grid column width\" setting for grid, masonry, and carousel templates "
+"configuring"
+msgstr ""
+"Bruk \"Grid kolonnebredde\"-innstillingen for konfigurering av rutenett, "
+"murverk og karusellmaler"
+
+#: includes/classes/Wizard.php:196
+msgid "Use any of the available styling classes for Buttons"
+msgstr "Bruk en av de tilgjengelige stylingklassene for knapper"
+
+#: includes/classes/Wizard.php:502 includes/classes/Wizard.php:611
+msgid ""
+"Use the [wcpw-cart-total-price] special shortcode to output the cart total "
+"price"
+msgstr ""
+"Bruk den spesielle kortkoden [wcpw-cart-total-price] for å skrive ut "
+"handlekurvens totalpris"
+
+#: includes/classes/Wizard.php:194
+msgid "Used for mobile nav and buttons template"
+msgstr "Brukes for mobil navigasjon og knappmal"
+
+#: includes/classes/Settings.php:106
+msgid "Value"
+msgstr "Verdi"
+
+#: includes/classes/WizardStep.php:320 includes/classes/WizardStep.php:381
+#: includes/classes/WizardStep.php:393 includes/classes/WizardStep.php:402
+#: includes/classes/WizardStep.php:409 includes/classes/WizardStep.php:417
+#: includes/classes/WizardStep.php:424 includes/classes/WizardStep.php:431
+#: includes/classes/WizardStep.php:444 includes/classes/WizardStep.php:451
+msgid "View"
+msgstr "Utsikt"
+
+#: includes/classes/Wizard.php:332
+msgid "Welcome"
+msgstr "Velkommen"
+
+#: includes/classes/Wizard.php:275
+#| msgid "Then isn't empty"
+msgid "When isn't empty"
+msgstr "Når er ikke tom"
+
+#: includes/classes/Wizard.php:276
+#| msgid "Then isn't empty until the results step"
+msgid "When isn't empty and until the results step"
+msgstr "Når er ikke tom og til resultattrinn"
+
+#: includes/classes/Wizard.php:438 includes/classes/Wizard.php:467
+msgid "Widget toggle"
+msgstr "Widget-veksling"
+
+#: views/app.php:13
+msgid "Wizard does not exists"
+msgstr "Veiviseren eksisterer ikke"
+
+#: includes/classes/Core.php:178
+msgid "WooCommerce is required for WC Products Wizard"
+msgstr "WooCommerce kreves for Products Wizard"
+
+#: includes/classes/Wizard.php:102
+msgid "Work mode"
+msgstr "Arbeidsmodus"
+
+#: includes/classes/WizardStep.php:367 includes/classes/Wizard.php:250
+msgid "XL"
+msgstr "XL"
+
+#: includes/classes/Wizard.php:293
+msgid "XL and smaller"
+msgstr "XL og mindre"
+
+#: includes/classes/WizardStep.php:343 includes/classes/Wizard.php:226
+msgid "XS"
+msgstr "XS"
+
+#: includes/classes/Wizard.php:289
+msgid "XS and smaller"
+msgstr "XS og mindre"
+
+#: includes/classes/WizardStep.php:373 includes/classes/Wizard.php:256
+msgid "XXL"
+msgstr "XXL"
+
+#: includes/classes/Wizard.php:294
+msgid "XXL and smaller"
+msgstr "XXL og mindre"
+
+#: includes/classes/WizardStep.php:337 includes/classes/Wizard.php:220
+msgid "XXS"
+msgstr "XXS"
+
+#: includes/classes/Wizard.php:288
+msgid "XXS and smaller"
+msgstr "XXS og mindre"
+
+#: includes/classes/Wizard.php:677
+msgid "Your cart is empty"
+msgstr "Handlekurven din er tom"
+
+#: includes/classes/WizardStep.php:181
+msgid "Zero is equal infinity"
+msgstr "Null = uendelig antall"
+
+#: includes/classes/Form.php:1764
+msgid "« Previous"
+msgstr "« Forrige"
+
+#: includes/classes/Wizard.php:1083
+msgid "← Add steps here"
+msgstr "← Legg til trinn her"

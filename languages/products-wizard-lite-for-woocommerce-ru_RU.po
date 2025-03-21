@@ -1,0 +1,1208 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: woocommerce-product-wizard\n"
+"POT-Creation-Date: 2020-07-16 15:32+0000\n"
+"PO-Revision-Date: 2024-12-13 14:02+0000\n"
+"Last-Translator: troll-winner\n"
+"Language-Team: Russian\n"
+"Language: ru_RU\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Poedit-Basepath: ../../../../../troll-winner.ru/public_html/products-"
+"wizard/wp-content/plugins/woocommerce-products-wizard\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && "
+"n%10<=4 && (n%100<10 || n%100>=20) ? 1 : 2);\n"
+"X-Poedit-KeywordsList: __;_e\n"
+"X-Poedit-SearchPath-0: .\n"
+"Report-Msgid-Bugs-To: \n"
+"X-Loco-Version: 2.4.0; wp-5.4.2"
+
+#: includes/classes/Wizard.php:693 includes/classes/Wizard.php:703
+msgid "\"%limit%\" - products limit"
+msgstr "\"%limit%\" - лимит товаров"
+
+#: includes/classes/Wizard.php:695 includes/classes/Wizard.php:705
+msgid "\"%value%\" - current products count"
+msgstr "\"%value%\" - текущее количество товаров"
+
+#: includes/classes/WizardStep.php:237
+msgid "\"Add to cart\" button behavior"
+msgstr "Поведение кнопки \"Добавить в корзину\""
+
+#: includes/classes/WizardStep.php:256 includes/classes/Wizard.php:506
+msgid "\"Add to cart\" button class"
+msgstr "Класс кнопки \"Добавить в корзину\""
+
+#: includes/classes/WizardStep.php:249 includes/classes/Wizard.php:497
+msgid "\"Add to cart\" button text"
+msgstr "Текст кнопки \"Добавить в корзину\""
+
+#: includes/classes/Wizard.php:522
+msgid "\"Back\" button class"
+msgstr "Класс кнопки \"Назад\""
+
+#: includes/classes/Wizard.php:515
+msgid "\"Back\" button text"
+msgstr "Текст кнопки \"Назад\""
+
+#: includes/classes/Wizard.php:663
+msgid "\"Edit\" button class"
+msgstr "Класс кнопки \"Изменить\""
+
+#: includes/classes/Wizard.php:656
+msgid "\"Edit\" button text"
+msgstr "Текст кнопки \"Редактировать\""
+
+#: includes/classes/Wizard.php:538
+msgid "\"Next\" button class"
+msgstr "Класс кнопки \"Далее\""
+
+#: includes/classes/Wizard.php:531
+msgid "\"Next\" button text"
+msgstr "Текст кнопки \"Вперед\""
+
+#: includes/classes/WizardStep.php:302 includes/classes/Wizard.php:639
+msgid "\"Remove\" button class"
+msgstr "Класс кнопки \"Удалить\""
+
+#: includes/classes/WizardStep.php:295 includes/classes/Wizard.php:632
+msgid "\"Remove\" button text"
+msgstr "Текст кнопки \"Удалить\""
+
+#: includes/classes/Wizard.php:554
+msgid "\"Reset\" button class"
+msgstr "Класс кнопки \"Сброс\""
+
+#: includes/classes/Wizard.php:547
+msgid "\"Reset\" button text"
+msgstr "Текст кнопки \"Сбросить\""
+
+#: includes/classes/Wizard.php:570
+msgid "\"Skip\" button class"
+msgstr "Класс кнопки \"Пропустить\""
+
+#: includes/classes/Wizard.php:563
+msgid "\"Skip\" button text"
+msgstr "Текст кнопки \"Пропустить\""
+
+#: includes/classes/Wizard.php:488
+msgid "\"Start\" button class"
+msgstr "Класс кнопки \"Начать\""
+
+#: includes/classes/Wizard.php:481
+msgid "\"Start\" button text"
+msgstr "Текст кнопки \"Старт\""
+
+#: includes/classes/Wizard.php:579
+msgid "\"To results\" button behavior"
+msgstr "Поведение кнопки \"К результатам\""
+
+#: includes/classes/Wizard.php:597
+msgid "\"To results\" button class"
+msgstr "Класс кнопки \"К результатам\""
+
+#: includes/classes/Wizard.php:590
+msgid "\"To results\" button text"
+msgstr "Текст кнопки \"К результатам\""
+
+#: includes/classes/Wizard.php:615
+msgid "\"Toggle widget\" button class"
+msgstr "Класс кнопки \"Переключить виджет\""
+
+#: includes/classes/Wizard.php:606
+msgid "\"Toggle widget\" button text"
+msgstr "Текст кнопки \"Показать/скрыть виджет\""
+
+#: includes/classes/WizardStep.php:279
+msgid "\"Update\" button class"
+msgstr "Класс кнопки \"Обновить\""
+
+#: includes/classes/WizardStep.php:272
+#| msgid "\"Submit\" button text"
+msgid "\"Update\" button text"
+msgstr "Текст кнопки \"Обновить\""
+
+#. phpcs:disable
+#: products-wizard-lite-for-woocommerce.php:74
+msgid ""
+"A few Products Wizard plugins are enabled at once. Keep enabled only one of "
+"them."
+msgstr ""
+"Несколько плагинов Products Wizard включены одновременно. Оставьте "
+"включенным только один из них."
+
+#: includes/setting-field-views/data-table.php:138
+msgid "Add"
+msgstr "Добавить"
+
+#: includes/classes/Wizard.php:1077
+msgid "Add step"
+msgstr "Добавить шаг"
+
+#: includes/classes/WizardStep.php:252 includes/classes/Wizard.php:447
+#: includes/classes/Wizard.php:476 includes/classes/Wizard.php:500
+msgid "Add to cart"
+msgstr "Добавить в корзину"
+
+#: includes/classes/WizardStep.php:244
+msgid "Add to main cart"
+msgstr "Добавить в основную корзину"
+
+#: includes/setting-field-views/multi-select.php:35
+#| msgid "Small"
+msgid "All"
+msgstr "Все"
+
+#: includes/classes/Wizard.php:273 includes/classes/Wizard.php:300
+msgid "Always"
+msgstr "Всегда"
+
+#: includes/classes/Wizard.php:274
+msgid "Always until the results step"
+msgstr "Всегда до шага результатов"
+
+#: includes/classes/Settings.php:69 includes/classes/Settings.php:79
+msgid "AND"
+msgstr "И"
+
+#: includes/classes/Wizard.php:628 includes/classes/Wizard.php:652
+msgid "Appears in the cart widget and results table"
+msgstr "Отображается в виджете корзины и таблице результатов"
+
+#: includes/classes/WizardStep.php:646
+msgid "Apply to all steps"
+msgstr "Применить ко всем шагам"
+
+#: includes/classes/WizardStep.php:151
+msgid "Ascending"
+msgstr "По возрастанию"
+
+#: includes/classes/WizardStep.php:163
+msgid "Author"
+msgstr "Автор"
+
+#: includes/classes/Wizard.php:118
+msgid "Auto"
+msgstr "Авто"
+
+#: includes/classes/Settings.php:21
+msgid "Availability rules"
+msgstr "Правила доступности"
+
+#: views/result.php:240
+msgid "Available on backorder"
+msgstr "Доступно при отложенном заказе"
+
+#: includes/classes/Wizard.php:443 includes/classes/Wizard.php:472
+#: includes/classes/Wizard.php:518
+msgid "Back"
+msgstr "Назад"
+
+#: includes/classes/WizardStep.php:81 includes/classes/WizardStep.php:89
+#: includes/classes/WizardStep.php:96 includes/classes/WizardStep.php:104
+#: includes/classes/WizardStep.php:112 includes/classes/WizardStep.php:120
+#: includes/classes/Wizard.php:1053
+msgid "Basic"
+msgstr "Базовые"
+
+#: includes/classes/Wizard.php:110 includes/classes/Wizard.php:123
+#: includes/classes/Wizard.php:131 includes/classes/Wizard.php:138
+#: includes/classes/Wizard.php:147
+msgid "Behavior"
+msgstr "Поведение"
+
+#: includes/classes/Template.php:34
+msgid "Buttons"
+msgstr "Кнопки"
+
+#: includes/classes/WizardStep.php:187
+msgid "Can select multiple products"
+msgstr "Можно выбрать несколько товаров"
+
+#: views/widget/index.php:44 includes/classes/WizardStep.php:192
+#: includes/classes/WizardStep.php:200 includes/classes/WizardStep.php:212
+#: includes/classes/WizardStep.php:225 includes/classes/Wizard.php:157
+#: includes/classes/Wizard.php:165 includes/classes/Wizard.php:176
+msgid "Cart"
+msgstr "Корзина"
+
+#: includes/classes/Settings.php:46
+msgid "Categories"
+msgstr "Категории"
+
+#: includes/classes/WizardStep.php:125
+msgid "Categories for using"
+msgstr "Категории для использования"
+
+#: includes/classes/Settings.php:35
+msgid "Category"
+msgstr "Категори"
+
+#: includes/setting-field-views/thumbnail.php:26
+#| msgid "Range"
+msgid "Change"
+msgstr "Изменить"
+
+#: views/form/item/prototype/choose.php:47
+msgid "Choose"
+msgstr "Выбрать"
+
+#: views/form/item/prototype/variations/index.php:51
+msgid "Clear"
+msgstr "Очистить"
+
+#: includes/classes/Wizard.php:1118 includes/classes/Wizard.php:1147
+msgid "Clone"
+msgstr "Клонировать"
+
+#: views/widget/index.php:57 includes/classes/Wizard.php:969
+#: includes/setting-field-views/data-table.php:45
+#: includes/global/shared-editor-modal.php:12
+msgid "Close"
+msgstr "Закрыть"
+
+#: includes/classes/Wizard.php:174
+msgid "Combined product"
+msgstr "Объединённый товар"
+
+#: includes/classes/WizardStep.php:168
+msgid "Comment count"
+msgstr "Количество комментариев"
+
+#: includes/classes/Settings.php:53
+msgid "Condition"
+msgstr "Условие"
+
+#: includes/classes/WizardStep.php:234 includes/classes/WizardStep.php:246
+#: includes/classes/WizardStep.php:253 includes/classes/WizardStep.php:262
+#: includes/classes/WizardStep.php:269 includes/classes/WizardStep.php:276
+#: includes/classes/WizardStep.php:285 includes/classes/WizardStep.php:292
+#: includes/classes/WizardStep.php:299 includes/classes/WizardStep.php:308
+#: includes/classes/Wizard.php:449 includes/classes/Wizard.php:478
+#: includes/classes/Wizard.php:485 includes/classes/Wizard.php:494
+#: includes/classes/Wizard.php:503 includes/classes/Wizard.php:512
+#: includes/classes/Wizard.php:519 includes/classes/Wizard.php:528
+#: includes/classes/Wizard.php:535 includes/classes/Wizard.php:544
+#: includes/classes/Wizard.php:551 includes/classes/Wizard.php:560
+#: includes/classes/Wizard.php:567 includes/classes/Wizard.php:576
+#: includes/classes/Wizard.php:587 includes/classes/Wizard.php:594
+#: includes/classes/Wizard.php:603 includes/classes/Wizard.php:612
+#: includes/classes/Wizard.php:621 includes/classes/Wizard.php:629
+#: includes/classes/Wizard.php:636 includes/classes/Wizard.php:644
+#: includes/classes/Wizard.php:653 includes/classes/Wizard.php:660
+#: includes/classes/Wizard.php:668
+msgid "Controls"
+msgstr "Кнопки"
+
+#: includes/setting-field-views/data-table.php:118
+#: includes/setting-field-views/data-table.php:145
+msgid "Copy"
+msgstr "Копировать"
+
+#: includes/classes/WizardStep.php:209 includes/classes/WizardStep.php:221
+msgid "Count of selected products NOT including their quantities"
+msgstr "Количество выбранных товаров НЕ включая их количество"
+
+#: includes/classes/Settings.php:102
+msgid "Count of selected products of steps"
+msgstr "Количество выбранных товаров шагов"
+
+#: includes/classes/WizardStep.php:380
+msgid "CSS value in px, rem, em, %, etc..."
+msgstr "Значение CSS в px, rem, em, % и т. д."
+
+#: includes/classes/Wizard.php:262
+msgid "CSS value in px, rem, em, etc..."
+msgstr "Значение CSS в px, rem, em и т. д."
+
+#: includes/classes/WizardStep.php:165
+msgid "Date"
+msgstr "Дата"
+
+#: includes/classes/WizardStep.php:211 includes/classes/WizardStep.php:223
+msgid "Define fixed value or steps IDs separated by a comma"
+msgstr ""
+"Определите фиксированное значение или идентификаторы шагов, разделенные "
+"запятой"
+
+#: includes/classes/WizardStep.php:138
+msgid "Define specific products to output"
+msgstr "Определите конкретные товары для вывода"
+
+#: includes/classes/WizardStep.php:152
+msgid "Descending"
+msgstr "По убыванию"
+
+#: includes/classes/WizardStep.php:434
+#| msgid "Item description source"
+msgid "Description source"
+msgstr "Источник описания товара"
+
+#: includes/classes/Wizard.php:336
+msgid "Description step subtitle"
+msgstr "Описание подзаголовка шага"
+
+#: includes/classes/Wizard.php:343
+msgid "Description step thumbnail"
+msgstr "Описание миниатюры шага"
+
+#: includes/classes/Wizard.php:329
+#| msgid "Description tab title"
+msgid "Description step title"
+msgstr "Заголовок шага описания"
+
+#: includes/classes/Admin.php:162
+msgid "Docs"
+msgstr "Документы"
+
+#: includes/classes/Wizard.php:156
+msgid "Drop products from steps after the current"
+msgstr "Удаление товаров из шагов после текущего"
+
+#: includes/classes/Wizard.php:659 includes/setting-field-views/editor.php:26
+msgid "Edit"
+msgstr "Редактировать"
+
+#: includes/classes/Wizard.php:674
+msgid "Empty cart"
+msgstr "Корзина пуста"
+
+#: includes/classes/WizardStep.php:566 includes/classes/WizardStep.php:706
+#: includes/classes/WizardStep.php:779
+msgid "Empty step or post id"
+msgstr "Пустой шаг или идентификатор записи"
+
+#: views/app.php:7
+msgid "Empty wizard id"
+msgstr "Пустой идентификатор мастера"
+
+#: includes/classes/WizardStep.php:230
+msgid "Enable \"Add to cart\" button"
+msgstr "Включить кнопку \"Добавить в корзину\""
+
+#: includes/classes/Wizard.php:648
+msgid "Enable \"Edit\" button"
+msgstr "Включить кнопку \"Изменить\""
+
+#: includes/classes/WizardStep.php:288 includes/classes/Wizard.php:624
+msgid "Enable \"Remove\" button"
+msgstr "Включить кнопку \"Удалить\""
+
+#: includes/classes/WizardStep.php:265
+#| msgid "Enable \"Back\" button"
+msgid "Enable \"Update\" button"
+msgstr "Включить кнопку \"Обновить\""
+
+#: includes/classes/Wizard.php:322
+#| msgid "Enable description tab"
+msgid "Enable description step"
+msgstr "Включить шаг описания"
+
+#: includes/classes/WizardStep.php:447
+msgid "Enable product title link"
+msgstr "Включить ссылку на заголовок товара"
+
+#: includes/classes/Wizard.php:351
+#| msgid "Enable results tab"
+msgid "Enable results step"
+msgstr "Включить шаг результатов"
+
+#: includes/classes/WizardStep.php:420
+msgid "Enable thumbnail link"
+msgstr "Включить ссылку на миниатюру"
+
+#: includes/setting-field-views/multi-select.php:71
+msgid "Enabled"
+msgstr "Включено"
+
+#: includes/classes/WizardStep.php:710 includes/classes/WizardStep.php:783
+#: includes/classes/Wizard.php:998 includes/classes/Traits/PostType.php:92
+msgid "Error while saving."
+msgstr "Ошибка при сохранении."
+
+#: includes/setting-field-views/multi-select.php:39
+#: includes/setting-field-views/multi-select.php:40
+#: includes/setting-field-views/multi-select.php:75
+#: includes/setting-field-views/multi-select.php:76
+msgid "Filter"
+msgstr "Фильтр"
+
+#: includes/classes/Wizard.php:126
+#| msgid "Final redirect url"
+msgid "Final redirect URL"
+msgstr "URL финального перенаправления"
+
+#: includes/classes/Settings.php:101
+msgid "Fixed value"
+msgstr "Фиксированное значение"
+
+#: includes/classes/Wizard.php:452
+msgid "Footer controls"
+msgstr "Элементы управления нижнего колонтитула"
+
+#: includes/classes/Wizard.php:186
+msgid "For modes with navigation"
+msgstr "Для режимов с навигацией"
+
+#: includes/classes/Wizard.php:439 includes/classes/Wizard.php:440
+#: includes/classes/Wizard.php:468 includes/classes/Wizard.php:469
+msgid "Free space"
+msgstr "Свободное пространство"
+
+#: includes/classes/Wizard.php:107
+msgid "Free walk"
+msgstr "Свободный проход"
+
+#: includes/classes/Wizard.php:120
+msgid "Get step"
+msgstr "Получить шаг"
+
+#: includes/classes/WizardStep.php:243
+msgid "Go next"
+msgstr "Переходить дальше"
+
+#. phpcs:ignore
+#: includes/classes/Admin.php:138
+msgid "Go PRO to unlock all wizard possibilities!"
+msgstr "Перейдите в PRO, чтобы разблокировать все возможности мастера!"
+
+#: includes/classes/Admin.php:184
+msgid "Go PRO!"
+msgstr "Перейдите в PRO!"
+
+#: includes/classes/WizardStep.php:323
+msgid "Grid column width"
+msgstr "Ширина столбца сетки"
+
+#: includes/classes/Wizard.php:160
+msgid "Group products into kits"
+msgstr "Группировка товаров в наборы"
+
+#: includes/classes/Wizard.php:164
+msgid "Group products into kits after adding to the main cart"
+msgstr "Группировать товары в наборы при добавлении в основную корзину"
+
+#: includes/classes/Wizard.php:423
+msgid "Header controls"
+msgstr "Элементы управления заголовка"
+
+#: includes/classes/WizardStep.php:199
+msgid "Hide products quantity input"
+msgstr "Скрыть поле количества товара"
+
+#: includes/classes/WizardStep.php:162
+msgid "ID"
+msgstr "ID"
+
+#: includes/setting-field-views/thumbnail.php:24
+msgid "Image"
+msgstr "Изображение"
+
+#: includes/classes/Settings.php:58
+msgid "In cart"
+msgstr "В корзине"
+
+#: includes/classes/WizardStep.php:134 includes/classes/WizardStep.php:170
+msgid "Included products"
+msgstr "Включенные товары"
+
+#: includes/classes/Wizard.php:168
+msgid "Kits type"
+msgstr "Тип наборов"
+
+#: includes/classes/WizardStep.php:361 includes/classes/Wizard.php:244
+msgid "L"
+msgstr "L"
+
+#: includes/classes/Wizard.php:292
+msgid "L and smaller"
+msgstr "L и меньше"
+
+#: includes/classes/Wizard.php:298
+msgid "Larger L"
+msgstr "Больше L"
+
+#: includes/classes/Wizard.php:297
+msgid "Larger M"
+msgstr "Больше M"
+
+#: includes/classes/Wizard.php:296
+msgid "Larger S"
+msgstr "Больше S"
+
+#: includes/classes/Wizard.php:299
+msgid "Larger XL"
+msgstr "Больше XL"
+
+#: includes/classes/Wizard.php:295
+msgid "Larger XS"
+msgstr "Больше XS"
+
+#: includes/classes/Wizard.php:187 includes/classes/Wizard.php:198
+#: includes/classes/Wizard.php:211 includes/classes/Wizard.php:265
+#: includes/classes/Wizard.php:279 includes/classes/Wizard.php:303
+#: includes/classes/Wizard.php:310 includes/classes/Wizard.php:317
+msgid "Layout"
+msgstr "Шаблон"
+
+#: includes/classes/Wizard.php:207
+msgid "Left"
+msgstr "Левый"
+
+#: includes/classes/Template.php:35
+msgid "Line"
+msgstr "Линия"
+
+#: includes/classes/Template.php:36
+msgid "Line horizontal"
+msgstr "Горизонтальная линия"
+
+#: includes/classes/WizardStep.php:355 includes/classes/Wizard.php:238
+msgid "M"
+msgstr "M"
+
+#: includes/classes/Wizard.php:291
+msgid "M and smaller"
+msgstr "M и меньше"
+
+#: includes/classes/Wizard.php:702
+msgid "Maximum items selected: %limit%"
+msgstr "Максимальное количество выбранных элементов: %limit%"
+
+#: includes/classes/WizardStep.php:215 includes/classes/Wizard.php:699
+msgid "Maximum products selected"
+msgstr "Максимум выбранных товаров"
+
+#: includes/classes/WizardStep.php:169
+msgid "Menu order"
+msgstr "Порядок в меню"
+
+#: includes/classes/WizardStep.php:203 includes/classes/Wizard.php:689
+msgid "Minimum products selected"
+msgstr "Минимум выбранных товаров"
+
+#: includes/classes/Wizard.php:692
+msgid "Minimum selected items are required: %limit%"
+msgstr "Требуется минимальное количество выбранных элементов: %limit%"
+
+#: includes/classes/WizardStep.php:166
+msgid "Modified"
+msgstr "Отредактирован"
+
+#: includes/classes/WizardStep.php:588
+msgid "More"
+msgstr "Еще"
+
+#: includes/classes/WizardStep.php:164
+msgid "Name"
+msgstr "Название"
+
+#: includes/classes/Wizard.php:113
+msgid "Navigation action"
+msgstr "Действие навигации"
+
+#: includes/classes/Wizard.php:190
+msgid "Navigation button class"
+msgstr "Класс кнопки навигации"
+
+#: includes/classes/WizardStep.php:88
+msgid "Navigation item title. Optional"
+msgstr "Заголовок элемента навигации. Необязательно"
+
+#: includes/classes/WizardStep.php:92
+msgid "Navigation subtitle"
+msgstr "Подзаголовок навигации"
+
+#: includes/classes/Wizard.php:181
+#| msgid "Variation template"
+msgid "Navigation template"
+msgstr "Шаблон навигации"
+
+#: includes/classes/WizardStep.php:84
+msgid "Navigation title"
+msgstr "Заголовок навигации"
+
+#: includes/classes/Wizard.php:277 includes/classes/Wizard.php:287
+msgid "Never"
+msgstr "Никогда"
+
+#: includes/classes/Wizard.php:445 includes/classes/Wizard.php:474
+#: includes/classes/Wizard.php:534
+#: includes/setting-field-views/data-table.php:84
+msgid "Next"
+msgstr "Далее"
+
+#: includes/classes/Form.php:1765
+msgid "Next »"
+msgstr "Вперед »"
+
+#: includes/classes/Wizard.php:684
+msgid "No products were found matching your selection."
+msgstr "Не найдено ни одного продукта, соответствующего вашему выбору."
+
+#: includes/classes/WizardStep.php:570
+msgid "Nonce error"
+msgstr "Ошибка nonce"
+
+#: includes/classes/WizardStep.php:441 includes/classes/Wizard.php:121
+#: includes/classes/Wizard.php:185
+msgid "None"
+msgstr "Нет"
+
+#: includes/classes/Settings.php:59
+msgid "Not in cart"
+msgstr "Не в корзине"
+
+#: includes/classes/WizardStep.php:99
+msgid "Notes"
+msgstr "Примечания"
+
+#: includes/classes/Wizard.php:681
+msgid "Nothing found"
+msgstr "Ничего не найдено"
+
+#: includes/classes/Wizard.php:130
+msgid "Open a page after the \"Add to main cart\" action"
+msgstr "Открыть страницу после действия \"Добавить в основную корзину\""
+
+#: includes/classes/Settings.php:68 includes/classes/Settings.php:78
+msgid "OR"
+msgstr "ИЛИ"
+
+#: includes/classes/WizardStep.php:146
+msgid "Order"
+msgstr "Порядок"
+
+#: includes/classes/WizardStep.php:157
+msgid "Order by"
+msgstr "Сортировать по"
+
+#: views/form/pagination.php:14
+msgid "Page navigation"
+msgstr "Постраничная навигация"
+
+#: includes/classes/Template.php:37
+msgid "Pills"
+msgstr "Таблетки"
+
+#: views/form/item/prototype/thumbnail.php:42
+msgid "Placeholder"
+msgstr "Заполнитель"
+
+#: includes/setting-field-views/data-table.php:77
+msgid "Prev"
+msgstr "Предыдущий"
+
+#: includes/classes/WizardStep.php:171 includes/classes/Cart.php:1256
+#: includes/classes/Wizard.php:417
+msgid "Price"
+msgstr "Цена"
+
+#: includes/classes/Wizard.php:403
+msgid "Product"
+msgstr "Продукт"
+
+#: includes/classes/WizardStep.php:439
+msgid "Product content"
+msgstr "Содержимое продукта"
+
+#: includes/classes/WizardStep.php:440
+msgid "Product short description"
+msgstr "Краткое описание продукта"
+
+#: includes/classes/WizardStep.php:384
+msgid "Product template"
+msgstr "Шаблон продукта"
+
+#: includes/classes/WizardStep.php:396
+msgid "Product variation template"
+msgstr "Шаблон вариации продукта"
+
+#: includes/classes/Settings.php:34
+msgid "Product/variation"
+msgstr "Продукт/вариация"
+
+#: includes/classes/Settings.php:39
+msgid "Products"
+msgstr "Товары"
+
+#: includes/classes/WizardStep.php:176
+msgid "Products per page"
+msgstr "Товаров на страницу"
+
+#: includes/classes/Wizard.php:61 includes/classes/Wizard.php:62
+msgid "Products Wizard"
+msgstr "Мастер Товаров"
+
+#: includes/classes/Wizard.php:57 includes/classes/Wizard.php:59
+#: includes/classes/Wizard.php:60
+msgid "Products Wizard for WooCommerce"
+msgstr "Мастер продуктов для WooCommerce"
+
+#: products-wizard-lite-for-woocommerce.php:71
+msgid "Products Wizard for WooCommerce is enabled a few times"
+msgstr "Мастер продуктов для WooCommerce включен несколько раз"
+
+#. Name of the plugin
+msgid "Products Wizard Lite for WooCommerce"
+msgstr "Мастер продуктов Lite для WooCommerce"
+
+#: includes/classes/Template.php:38
+msgid "Progress"
+msgstr "Прогресс"
+
+#: includes/classes/Wizard.php:410
+msgid "Quantity"
+msgstr "Количество"
+
+#: includes/classes/Settings.php:83 includes/classes/WizardStep.php:131
+#: includes/classes/WizardStep.php:139 includes/classes/WizardStep.php:154
+#: includes/classes/WizardStep.php:173 includes/classes/WizardStep.php:182
+msgid "Query"
+msgstr "Запрос"
+
+#: includes/classes/WizardStep.php:167
+msgid "Rand"
+msgstr "Случайно"
+
+#: includes/classes/Settings.php:73
+msgid "Relation with the next rule"
+msgstr "Связь со следующим правилом"
+
+#: includes/classes/Settings.php:63
+msgid "Relation within the items"
+msgstr "Связь внутри элементов"
+
+#: includes/classes/WizardStep.php:298 includes/classes/Wizard.php:635
+#: includes/setting-field-views/data-table.php:146
+#: includes/setting-field-views/thumbnail.php:30
+msgid "Remove"
+msgstr "Удалить"
+
+#: includes/classes/Wizard.php:389
+msgid "Remove item"
+msgstr "Удалить элемент"
+
+#: includes/classes/WizardStep.php:191
+msgid "Replace radio-inputs with checkboxes to select multiple products"
+msgstr "Замените радио-входы флажками для выбора нескольких продуктов"
+
+#: includes/classes/Wizard.php:442 includes/classes/Wizard.php:471
+#: includes/classes/Wizard.php:550
+msgid "Reset"
+msgstr "Сбросить"
+
+#: includes/classes/Wizard.php:414
+msgid "Results price string"
+msgstr "Результаты строка цены"
+
+#: includes/classes/Wizard.php:400
+msgid "Results product string"
+msgstr "Результаты строка продукта"
+
+#: includes/classes/Wizard.php:407
+msgid "Results quantity string"
+msgstr "Результаты строка количества"
+
+#: includes/classes/Wizard.php:386
+msgid "Results remove string"
+msgstr "Результаты удалить строку"
+
+#: includes/classes/Wizard.php:379
+msgid "Results step description"
+msgstr "Результаты описание шага"
+
+#: includes/classes/Wizard.php:365
+msgid "Results step subtitle"
+msgstr "Результаты подзаголовок шага"
+
+#: includes/classes/Wizard.php:372
+msgid "Results step thumbnail"
+msgstr "Результаты миниатюра шага"
+
+#: includes/classes/Wizard.php:358
+#| msgid "Results tab title"
+msgid "Results step title"
+msgstr "Заголовок шага результатов"
+
+#: includes/classes/Wizard.php:393
+msgid "Results thumbnail string"
+msgstr "Результаты миниатюра строка"
+
+#. 1: WP_REST_Response, 2: WP_Error
+#: includes/classes/Utils.php:286
+#, php-format
+msgid ""
+"Return a %1$s or %2$s object from your callback when using the REST API."
+msgstr ""
+"Верните объект %1$s или %2$s из обратного вызова при использовании REST API."
+
+#: includes/classes/Wizard.php:206
+msgid "Right"
+msgstr "Правый"
+
+#: includes/classes/WizardStep.php:349 includes/classes/Wizard.php:232
+msgid "S"
+msgstr "S"
+
+#: includes/classes/Wizard.php:290
+msgid "S and smaller"
+msgstr "S и меньше"
+
+#: includes/classes/WizardStep.php:663
+#: includes/setting-field-views/data-table.php:80
+msgid "Save"
+msgstr "Сохранить"
+
+#: includes/classes/WizardStep.php:668
+msgid "Save & Close"
+msgstr "Сохранить и закрыть"
+
+#: includes/classes/Wizard.php:134
+#| msgid "Scrolling to top on the form update"
+msgid "Scrolling top on the form update"
+msgstr "Прокручивать вверх при обновлении формы"
+
+#: includes/setting-field-views/wc-product-search.php:17
+msgid "Search for a product&hellip;"
+msgstr "Поиск продукта…"
+
+#: includes/setting-field-views/wc-terms-search.php:17
+msgid "Search for a term&hellip;"
+msgstr "Поиск термина…"
+
+#: includes/classes/WizardStep.php:72 includes/classes/Wizard.php:95
+msgid "See documentation"
+msgstr "См. документацию"
+
+#: includes/classes/WizardStep.php:130
+msgid "Select categories to request products"
+msgstr "Выберите категории для запроса продуктов"
+
+#: includes/classes/Wizard.php:302
+msgid "Select required screen size"
+msgstr "Выберите требуемый размер экрана"
+
+#: includes/classes/Wizard.php:173
+msgid "Separated products"
+msgstr "Разделенные товары"
+
+#: includes/classes/WizardStep.php:416
+msgid ""
+"Set width and height separated by a comma or use string value. For example "
+"thumbnail, medium, large"
+msgstr ""
+"Укажите ширину и высоту, разделенные запятой, или используйте строковое "
+"значение. Например, миниатюра, средний, большой"
+
+#: includes/classes/Admin.php:186 includes/classes/Wizard.php:1125
+#: includes/classes/Wizard.php:1154
+#: includes/setting-field-views/data-table.php:39
+#: includes/classes/Traits/PostType.php:52
+msgid "Settings"
+msgstr "Настройки"
+
+#: includes/classes/Wizard.php:1060 includes/classes/Wizard.php:1205
+msgid "ShortCode"
+msgstr "ShortCode"
+
+#: includes/classes/Wizard.php:268
+msgid "Show cart widget"
+msgstr "Показать виджет корзины"
+
+#: includes/classes/Wizard.php:313
+msgid "Show footer"
+msgstr "Показать нижний колонтитул"
+
+#: includes/classes/Wizard.php:306
+msgid "Show header"
+msgstr "Показать заголовок"
+
+#: includes/classes/WizardStep.php:427
+msgid "Show product description"
+msgstr "Показать описание продукта"
+
+#: includes/classes/WizardStep.php:405
+msgid "Show product thumbnails"
+msgstr "Показать миниатюры продукта"
+
+#: includes/classes/Settings.php:26
+msgid "Show/hide the step according to the specific rules"
+msgstr "Показать/скрыть шаг в соответствии с определенными правилами"
+
+#: includes/classes/Wizard.php:201
+msgid "Sidebar position"
+msgstr "Положение боковой панели"
+
+#: includes/classes/Wizard.php:214
+msgid "Sidebar width"
+msgstr "Ширина боковой панели"
+
+#: includes/classes/Wizard.php:108
+msgid "Single step"
+msgstr "Один шаг"
+
+#: includes/classes/Wizard.php:444 includes/classes/Wizard.php:473
+#: includes/classes/Wizard.php:566
+msgid "Skip"
+msgstr "Пропустить"
+
+#: includes/classes/Wizard.php:584
+msgid "Skip all"
+msgstr "Пропустить все"
+
+#: includes/classes/WizardStep.php:195
+msgid "Sold individually"
+msgstr "Продавать индивидуально"
+
+#: includes/classes/WizardStep.php:714 includes/classes/WizardStep.php:787
+msgid "Sorry, you are not allowed to edit this item."
+msgstr "К сожалению, вам не разрешено редактировать этот элемент."
+
+#: includes/classes/Settings.php:29
+msgid "Source"
+msgstr "Источник"
+
+#: includes/classes/Wizard.php:441 includes/classes/Wizard.php:470
+#: includes/classes/Wizard.php:484
+msgid "Start"
+msgstr "Начать"
+
+#: includes/classes/WizardStep.php:242
+msgid "Stay on the same step"
+msgstr "Оставаться на текущем шаге"
+
+#: includes/classes/WizardStep.php:103
+msgid "Step notes only for developers"
+msgstr "Заметки о шагах только для разработчиков"
+
+#: includes/classes/Wizard.php:326 includes/classes/Wizard.php:333
+#: includes/classes/Wizard.php:340 includes/classes/Wizard.php:348
+#: includes/classes/Wizard.php:355 includes/classes/Wizard.php:362
+#: includes/classes/Wizard.php:369 includes/classes/Wizard.php:376
+#: includes/classes/Wizard.php:383 includes/classes/Wizard.php:390
+#: includes/classes/Wizard.php:397 includes/classes/Wizard.php:404
+#: includes/classes/Wizard.php:411 includes/classes/Wizard.php:418
+msgid "Steps"
+msgstr "Шаги"
+
+#: includes/classes/Wizard.php:282
+msgid "Sticky widget"
+msgstr "Прикрепленный виджет"
+
+#: includes/classes/Wizard.php:152
+msgid "Strict cart workflow"
+msgstr "Строгий рабочий процесс корзины"
+
+#: includes/classes/Wizard.php:678 includes/classes/Wizard.php:686
+#: includes/classes/Wizard.php:696 includes/classes/Wizard.php:706
+#: includes/classes/Wizard.php:713 includes/classes/Wizard.php:721
+msgid "Strings"
+msgstr "Строки"
+
+#: includes/classes/Wizard.php:119
+msgid "Submit"
+msgstr "Отправить"
+
+#: includes/classes/Wizard.php:585
+msgid "Submit step and skip all"
+msgstr "Отправить шаг и пропустить все"
+
+#: includes/classes/Wizard.php:712
+msgid "Subtotal"
+msgstr "Итого"
+
+#: includes/classes/Wizard.php:709
+msgid "Subtotal string"
+msgstr "Строка итого"
+
+#: includes/classes/Template.php:39
+msgid "Tabs"
+msgstr "Вкладки"
+
+#: includes/classes/WizardStep.php:313
+msgid "Template"
+msgstr "Шаблон"
+
+#: includes/classes/Wizard.php:141
+#| msgid "The gap on scrolling up (px)"
+msgid "The gap on scrolling up"
+msgstr "Отступ при прокручивании вверх"
+
+#: includes/classes/Wizard.php:64
+msgid "This is where you can add new products wizard items."
+msgstr "Здесь вы можете создать новый мастер товаров."
+
+#. Description of the plugin
+#| msgid "This plugin helps you sell your products by the step-by-step wizard."
+msgid "This plugin helps you sell your products by the step-by-step wizard"
+msgstr ""
+"Этот плагин помогает вам продать ваши товары в режиме пошагового мастера"
+
+#: includes/classes/WizardStep.php:107
+msgid "Thumbnail"
+msgstr "Миниатюра"
+
+#: includes/classes/Wizard.php:396
+msgid "Thumbnail image"
+msgstr "Изображение миниатюры"
+
+#: includes/classes/WizardStep.php:412
+msgid "Thumbnail size"
+msgstr "Размер миниатюры"
+
+#: includes/classes/WizardStep.php:77
+msgid "Title"
+msgstr "Заголовок"
+
+#: includes/classes/Wizard.php:446 includes/classes/Wizard.php:475
+#: includes/classes/Wizard.php:593
+msgid "To results"
+msgstr "К результатам"
+
+#: includes/classes/Wizard.php:609
+msgid "Toggle cart"
+msgstr "Показать/скрыть корзину"
+
+#: includes/classes/Wizard.php:208
+#| msgid "To"
+msgid "Top"
+msgstr "Верх"
+
+#: includes/classes/WizardStep.php:115
+#| msgid "Description"
+msgid "Top description"
+msgstr "Описание"
+
+#: includes/classes/Wizard.php:361 includes/classes/Wizard.php:719
+msgid "Total"
+msgstr "Итог"
+
+#: includes/classes/Wizard.php:716
+msgid "Total string"
+msgstr "Итоговая строка"
+
+#: includes/classes/Settings.php:96
+msgid "Type"
+msgstr "Тип"
+
+#: includes/classes/WizardStep.php:275
+#: includes/global/shared-editor-modal.php:25
+msgid "Update"
+msgstr "Обновить"
+
+#: includes/classes/WizardStep.php:318
+msgid ""
+"Use \"Grid column width\" setting for grid, masonry, and carousel templates "
+"configuring"
+msgstr ""
+"Используйте настройку \"Ширина столбца сетки\" для настройки шаблонов сетки, "
+"кладки и карусели"
+
+#: includes/classes/Wizard.php:196
+msgid "Use any of the available styling classes for Buttons"
+msgstr "Используйте любой из доступных классов стилей для кнопок"
+
+#: includes/classes/Wizard.php:502 includes/classes/Wizard.php:611
+msgid ""
+"Use the [wcpw-cart-total-price] special shortcode to output the cart total "
+"price"
+msgstr ""
+"Используйте специальный шорткод [wcpw-cart-total-price] для вывода общей "
+"стоимости корзины"
+
+#: includes/classes/Wizard.php:194
+msgid "Used for mobile nav and buttons template"
+msgstr "Используется для шаблона мобильной навигации и кнопок"
+
+#: includes/classes/Settings.php:106
+msgid "Value"
+msgstr "Значение"
+
+#: includes/classes/WizardStep.php:320 includes/classes/WizardStep.php:381
+#: includes/classes/WizardStep.php:393 includes/classes/WizardStep.php:402
+#: includes/classes/WizardStep.php:409 includes/classes/WizardStep.php:417
+#: includes/classes/WizardStep.php:424 includes/classes/WizardStep.php:431
+#: includes/classes/WizardStep.php:444 includes/classes/WizardStep.php:451
+msgid "View"
+msgstr "Вид"
+
+#: includes/classes/Wizard.php:332
+msgid "Welcome"
+msgstr "Добро пожаловать"
+
+#: includes/classes/Wizard.php:275
+#| msgid "Then isn't empty"
+msgid "When isn't empty"
+msgstr "Когда не пусто"
+
+#: includes/classes/Wizard.php:276
+#| msgid "Then isn't empty until the results step"
+msgid "When isn't empty and until the results step"
+msgstr "Когда не пусто и до шага результатов"
+
+#: includes/classes/Wizard.php:438 includes/classes/Wizard.php:467
+msgid "Widget toggle"
+msgstr "Переключение виджета"
+
+#: views/app.php:13
+msgid "Wizard does not exists"
+msgstr "Мастер не существует"
+
+#: includes/classes/Core.php:178
+msgid "WooCommerce is required for WC Products Wizard"
+msgstr "WooCommerce требуется для мастера продуктов"
+
+#: includes/classes/Wizard.php:102
+msgid "Work mode"
+msgstr "Режим работы"
+
+#: includes/classes/WizardStep.php:367 includes/classes/Wizard.php:250
+msgid "XL"
+msgstr "XL"
+
+#: includes/classes/Wizard.php:293
+msgid "XL and smaller"
+msgstr "XL и меньше"
+
+#: includes/classes/WizardStep.php:343 includes/classes/Wizard.php:226
+msgid "XS"
+msgstr "XS"
+
+#: includes/classes/Wizard.php:289
+msgid "XS and smaller"
+msgstr "XS и меньше"
+
+#: includes/classes/WizardStep.php:373 includes/classes/Wizard.php:256
+msgid "XXL"
+msgstr "XXL"
+
+#: includes/classes/Wizard.php:294
+msgid "XXL and smaller"
+msgstr "XXL и меньше"
+
+#: includes/classes/WizardStep.php:337 includes/classes/Wizard.php:220
+msgid "XXS"
+msgstr "XXS"
+
+#: includes/classes/Wizard.php:288
+msgid "XXS and smaller"
+msgstr "XXS и меньше"
+
+#: includes/classes/Wizard.php:677
+msgid "Your cart is empty"
+msgstr "Ваша корзина пуста"
+
+#: includes/classes/WizardStep.php:181
+msgid "Zero is equal infinity"
+msgstr "Ноль равняется бесконечности"
+
+#: includes/classes/Form.php:1764
+msgid "« Previous"
+msgstr "« Назад"
+
+#: includes/classes/Wizard.php:1083
+msgid "← Add steps here"
+msgstr "← Добавьте шаги здесь"
